@@ -5,10 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Familie-dokter.net
     url: https://www.familie-dokter.net
+    type: globalping
+    location: netherlands
   - name: Red Grendel
     url: https://www.redgrendel.com  
+    type: globalping
+    location: netherlands
   - name: NextCloud
     url: https://nextcloud.familie-dokter.net
+    type: globalping
+    location: netherlands
 
 
 
