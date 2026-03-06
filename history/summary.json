@@ -4,19 +4,19 @@
     "url": "https://www.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.familie-dokter.net.ico",
     "slug": "familie-dokter-net",
-    "status": "down",
-    "uptime": "5.86%",
-    "uptimeDay": "5.86%",
-    "uptimeWeek": "5.86%",
-    "uptimeMonth": "5.86%",
-    "uptimeYear": "5.86%",
-    "time": 519,
-    "timeDay": 519,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 534,
+    "timeDay": 534,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 99
     }
   },
   {
