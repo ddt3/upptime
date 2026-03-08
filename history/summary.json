@@ -4,18 +4,19 @@
     "url": "https://www.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.familie-dokter.net.ico",
     "slug": "familie-dokter-net",
-    "status": "up",
-    "uptime": "88.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.85%",
-    "uptimeMonth": "88.85%",
-    "uptimeYear": "88.85%",
+    "status": "down",
+    "uptime": "89.91%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "89.91%",
+    "uptimeMonth": "89.91%",
+    "uptimeYear": "89.91%",
     "time": 468,
     "timeDay": 273,
     "timeWeek": 468,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2026-03-08": 0,
       "2026-03-06": 273
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.redgrendel.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.redgrendel.com.ico",
     "slug": "red-grendel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,14 +36,16 @@
     "timeWeek": 871,
     "timeMonth": 871,
     "timeYear": 871,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-08": 0
+    }
   },
   {
     "name": "NextCloud",
     "url": "https://nextcloud.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.familie-dokter.net.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +56,8 @@
     "timeWeek": 417,
     "timeMonth": 417,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-08": 0
+    }
   }
 ]
