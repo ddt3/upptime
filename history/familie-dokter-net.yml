@@ -1,7 +1,7 @@
 url: https://www.familie-dokter.net
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2026-03-22T23:37:37.947Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-03-23T09:46:25.310Z
 startTime: 2026-03-06T08:17:42.195Z
 generator: Upptime <https://github.com/upptime/upptime>
