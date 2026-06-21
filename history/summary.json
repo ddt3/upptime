@@ -95,17 +95,17 @@
     "url": "https://nextcloud.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.familie-dokter.net.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "97.45%",
-    "time": 357,
-    "timeDay": 2656,
-    "timeWeek": 872,
-    "timeMonth": 389,
-    "timeYear": 357,
+    "time": 389,
+    "timeDay": 3461,
+    "timeWeek": 1222,
+    "timeMonth": 506,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2026-03-08": 34,
       "2026-03-09": 59,
@@ -128,7 +128,8 @@
       "2026-05-20": 176,
       "2026-05-22": 305,
       "2026-06-04": 132,
-      "2026-06-16": 104
+      "2026-06-16": 104,
+      "2026-06-21": 0
     }
   }
 ]
