@@ -40,12 +40,12 @@
     "status": "up",
     "uptime": "94.91%",
     "uptimeDay": "88.61%",
-    "uptimeWeek": "66.80%",
+    "uptimeWeek": "67.66%",
     "uptimeMonth": "85.47%",
     "uptimeYear": "94.91%",
     "time": 243,
     "timeDay": 69,
-    "timeWeek": 330,
+    "timeWeek": 334,
     "timeMonth": 208,
     "timeYear": 243,
     "dailyMinutesDown": {
@@ -94,17 +94,17 @@
     "url": "https://nextcloud.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.familie-dokter.net.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "77.87%",
-    "uptimeWeek": "95.80%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "97.26%",
-    "time": 513,
-    "timeDay": 3888,
-    "timeWeek": 2082,
-    "timeMonth": 910,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "68.22%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "97.17%",
+    "time": 510,
+    "timeDay": 3466,
+    "timeWeek": 1971,
+    "timeMonth": 909,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2026-03-08": 34,
       "2026-03-09": 59,
@@ -129,7 +129,7 @@
       "2026-06-04": 132,
       "2026-06-16": 104,
       "2026-06-21": 319,
-      "2026-06-22": 0
+      "2026-06-22": 139
     }
   }
 ]
