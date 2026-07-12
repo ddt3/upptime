@@ -1,7 +1,7 @@
 url: https://nextcloud.familie-dokter.net
-status: up
-code: 302
-responseTime: 311
-lastUpdated: 2026-07-11T23:19:08.706Z
+status: down
+code: 503
+responseTime: 76
+lastUpdated: 2026-07-12T08:51:48.925Z
 startTime: 2026-03-06T08:17:46.343Z
 generator: Upptime <https://github.com/upptime/upptime>
