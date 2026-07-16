@@ -37,19 +37,19 @@
     "url": "https://www.redgrendel.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.redgrendel.com.ico",
     "slug": "red-grendel",
-    "status": "up",
-    "uptime": "93.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "74.65%",
-    "uptimeYear": "93.67%",
+    "status": "down",
+    "uptime": "93.74%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "74.72%",
+    "uptimeYear": "93.74%",
     "time": 228,
-    "timeDay": 30,
-    "timeWeek": 133,
+    "timeDay": 43,
+    "timeWeek": 127,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-06-14": 461,
+      "2026-06-14": 362,
       "2026-06-15": 413,
       "2026-06-16": 426,
       "2026-06-17": 643,
@@ -76,7 +76,8 @@
       "2026-07-08": 461,
       "2026-07-09": 43,
       "2026-07-13": 68,
-      "2026-07-14": 89
+      "2026-07-14": 89,
+      "2026-07-16": 1
     }
   },
   {
@@ -84,17 +85,17 @@
     "url": "https://nextcloud.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.familie-dokter.net.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "96.60%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "79.65%",
+    "status": "down",
+    "uptime": "96.61%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "79.64%",
     "uptimeMonth": "94.03%",
-    "uptimeYear": "96.60%",
-    "time": 446,
-    "timeDay": 97,
-    "timeWeek": 117,
-    "timeMonth": 842,
-    "timeYear": 446,
+    "uptimeYear": "96.61%",
+    "time": 444,
+    "timeDay": 98,
+    "timeWeek": 116,
+    "timeMonth": 826,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2026-03-08": 34,
       "2026-03-09": 59,
@@ -122,7 +123,8 @@
       "2026-06-22": 139,
       "2026-07-13": 1016,
       "2026-07-12": 908,
-      "2026-07-15": 127
+      "2026-07-15": 127,
+      "2026-07-16": 0
     }
   }
 ]
