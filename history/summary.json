@@ -38,18 +38,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redgrendel.com.ico",
     "slug": "red-grendel",
     "status": "down",
-    "uptime": "97.84%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "91.69%",
-    "uptimeYear": "97.84%",
+    "uptime": "97.85%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "97.85%",
     "time": 238,
     "timeDay": 490,
     "timeWeek": 170,
     "timeMonth": 223,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-07-05": 113,
+      "2026-07-05": 83,
       "2026-07-06": 219,
       "2026-07-07": 184,
       "2026-07-08": 461,
@@ -99,7 +99,8 @@
       "2026-09-09": 40,
       "2026-09-10": 93,
       "2026-09-11": 35,
-      "2026-09-12": 18
+      "2026-09-12": 23,
+      "2026-09-13": 11
     }
   },
   {
