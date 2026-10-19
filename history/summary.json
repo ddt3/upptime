@@ -47,7 +47,7 @@
     "time": 233,
     "timeDay": 1290,
     "timeWeek": 185,
-    "timeMonth": 242,
+    "timeMonth": 243,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2026-08-29": 18,
@@ -103,17 +103,17 @@
     "url": "https://nextcloud.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.familie-dokter.net.ico",
     "slug": "next-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.22%",
     "uptimeWeek": "96.63%",
-    "uptimeMonth": "98.46%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "97.72%",
-    "time": 379,
-    "timeDay": 153,
+    "time": 378,
+    "timeDay": 144,
     "timeWeek": 144,
-    "timeMonth": 521,
-    "timeYear": 379,
+    "timeMonth": 510,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2026-03-08": 34,
       "2026-03-09": 59,
@@ -148,7 +148,7 @@
       "2026-10-13": 294,
       "2026-10-12": 344,
       "2026-10-14": 17,
-      "2026-10-19": 0
+      "2026-10-19": 11
     }
   }
 ]
