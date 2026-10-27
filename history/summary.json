@@ -4,10 +4,10 @@
     "url": "https://www.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.familie-dokter.net.ico",
     "slug": "familie-dokter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.96%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "94.95%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.57%",
     "time": 287,
@@ -31,7 +31,8 @@
       "2026-05-15": 66,
       "2026-05-22": 52,
       "2026-09-20": 26,
-      "2026-10-21": 508
+      "2026-10-21": 508,
+      "2026-10-27": 1
     }
   },
   {
@@ -105,9 +106,9 @@
     "url": "https://nextcloud.familie-dokter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.familie-dokter.net.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.14%",
     "uptimeMonth": "97.34%",
     "uptimeYear": "97.64%",
@@ -150,7 +151,8 @@
       "2026-10-13": 294,
       "2026-10-12": 344,
       "2026-10-14": 17,
-      "2026-10-21": 490
+      "2026-10-21": 490,
+      "2026-10-27": 0
     }
   }
 ]
